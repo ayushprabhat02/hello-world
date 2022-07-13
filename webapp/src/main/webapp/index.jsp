@@ -64,5 +64,4 @@
   </div>
 
   <h1>Thankyou, Happy Learning</h1>
-  <h1>This is Ayush</h1>
 </form>
