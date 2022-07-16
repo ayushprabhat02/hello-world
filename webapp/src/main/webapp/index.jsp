@@ -64,5 +64,8 @@
   </div>
 
   <h1>Thankyou, Happy Learning</h1>
-  <h2>Run ansible playbook automated by using jenkins</h2>
+  <h2>
+    Run ansible playbook of creating image and push to dockerhub and container
+    fully automated by using jenkins
+  </h2>
 </form>
