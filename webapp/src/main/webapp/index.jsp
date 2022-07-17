@@ -64,5 +64,5 @@
   </div>
 
   <h1>Thankyou, Happy Learning :</h1>
-  <h2>ci cd apply successfully with ansible</h2>
+  <h2>pushed image to dockerhub</h2>
 </form>
