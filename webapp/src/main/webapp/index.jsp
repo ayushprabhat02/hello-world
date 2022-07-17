@@ -1,4 +1,4 @@
-<!-- <form action="action_page.php">
+<form action="action_page.php">
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
@@ -68,10 +68,10 @@
     Run ansible playbook of creating image and push to dockerhub and container
     fully automated by using jenkins
   </h2>
-</form> -->
+</form>
 
 <!-- 2nd alternatie -->
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8" />
@@ -152,4 +152,4 @@
       crossorigin="anonymous"
     ></script>
   </body>
-</html>
+</html> -->
