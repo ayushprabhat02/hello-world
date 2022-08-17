@@ -898,7 +898,7 @@
               <div class="name">WASHING MACHINE</div>
               <div class="price">$56</div>
               <div class="info">
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+                Washing machine at 50% off , hurry grab the deal
               </div>
             </div>
           </div>
