@@ -897,7 +897,7 @@
               </div>
               <div class="name">WASHING MACHINE</div>
               <div class="price">$56</div>
-              <div class="info">Washing machine at 50% off</div>
+              <div class="info">Washing machine at 70%</div>
             </div>
           </div>
         </div>
